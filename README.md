@@ -18,4 +18,4 @@ Adjustable sorting speed for better visualization.
 Randomize the input array for different scenarios.
 Choose from a selection of sorting algorithms.
 
-
+<p style="font-size: 1px;">This is smaller text.</p>
