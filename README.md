@@ -19,4 +19,4 @@ This Sorting Algorithm Visualizer is a web application that allows you to intera
 - Choose from a selection of sorting algorithms.
 
 <p style="font-size: large">This is larger text.</p>
-<p style="font-size: 18">This is smaller text.</p>
+<small>small text</small>
