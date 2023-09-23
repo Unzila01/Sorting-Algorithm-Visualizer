@@ -18,4 +18,15 @@ This Sorting Algorithm Visualizer is a web application that allows you to intera
 - Randomize the input array for different scenarios.
 - Choose from a selection of sorting algorithms.
 
+**Usage:**
+ Once the application is open, you'll see some bars representing the elements to be sorted.
+- Use the provided options to customize your visualization:
+- Choose a sorting algorithm from the dropdown menu.
+- Adjust the sorting speed to control the animation.
+- Click the "Randomize Array" button to generate a new random array.
+- Click the "Sort" button to start the visualization.
 
+
+
+Happy sorting and visualizing! If you have any questions or feedback, please feel free to reach out to me.
+[https://www.linkedin.com/in/unzila-092b15201]
