@@ -14,9 +14,8 @@ This Sorting Algorithm Visualizer is a web application that allows you to intera
 - Quick Sort
 
 **Features:** 
-Adjustable sorting speed for better visualization.
-Randomize the input array for different scenarios.
-Choose from a selection of sorting algorithms.
+- Adjustable sorting speed for better visualization.
+- Randomize the input array for different scenarios.
+- Choose from a selection of sorting algorithms.
 
-<font size="32"> your message</font>
 
