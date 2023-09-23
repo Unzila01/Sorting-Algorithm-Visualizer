@@ -18,5 +18,5 @@ This Sorting Algorithm Visualizer is a web application that allows you to intera
 - Randomize the input array for different scenarios.
 - Choose from a selection of sorting algorithms.
 
-<p style="font-size: 24">This is larger text.</p>
+<p style="font-size: large">This is larger text.</p>
 <p style="font-size: 18">This is smaller text.</p>
