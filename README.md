@@ -18,5 +18,5 @@ Adjustable sorting speed for better visualization.
 Randomize the input array for different scenarios.
 Choose from a selection of sorting algorithms.
 
-<font size="1"> your message</font>
+<font size="32"> your message</font>
 
